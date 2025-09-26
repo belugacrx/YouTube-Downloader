@@ -1,3 +1,11 @@
+## ⚠️ Important: Update `yt-dlp.exe` if the script doesn't work
+
+**If the script fails to run, you may need to update `yt-dlp.exe`.**  
+👉 Download the **latest version** from the [official yt-dlp releases page](https://github.com/yt-dlp/yt-dlp/releases).  
+🔁 After downloading, **replace the existing `yt-dlp.exe` in your folder** — but **keep the file name exactly the same**.
+
+
+
 YouTube Downloader (Batch Script)
 A simple and user-friendly YouTube downloader batch script for Windows. Download videos, audio, or specific clips quickly and easily with customizable options.
 ________________________________________
